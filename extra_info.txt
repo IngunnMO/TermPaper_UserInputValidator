@@ -1,0 +1,9 @@
+The UserInputValidator has two methods:
+
+validate_positive_integers:
+- Accepts a list of strings and checks for positive integers. 
+- It collects all the positive integers in a result list which is returned when completed
+
+display_message
+- prints a success message once a validation has occurred.
+- this method is private and is automatically instantiated when a validation has been completed.
